@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class scri : MonoBehaviour
+public class Ball : MonoBehaviour
 {
     Rigidbody rigidbody;
 
